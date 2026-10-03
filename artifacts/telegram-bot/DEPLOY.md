@@ -5,7 +5,7 @@
 ### Qadamlar:
 1. **railway.app** ga kiring
 2. **New Project** → **Deploy from GitHub repo**
-3. `iqtisodiyot01-ops/kinobotkod` ni tanlang
+3. `bluecore-dev/kinobotkod` ni tanlang
 4. **Root Directory**: `artifacts/telegram-bot`
 5. **Service Type**: `Worker` (HTTP port kerak emas)
 
