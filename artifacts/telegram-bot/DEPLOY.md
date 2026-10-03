@@ -11,8 +11,8 @@
 
 ### Environment Variables (Settings > Variables):
 ```
-TELEGRAM_BOT_TOKEN=8514248979:AAGeTEjSNN1Ojbm4elkf91gSbOi4vYOu2DM
-ADMIN_TELEGRAM_ID=7914882474
+TELEGRAM_BOT_TOKEN=<@BotFather bergan token — repoda saqlanmaydi>
+ADMIN_TELEGRAM_ID=<admin Telegram id>
 DATABASE_URL=<Supabase yoki Railway PostgreSQL connection string>
 ```
 
